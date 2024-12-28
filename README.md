@@ -51,10 +51,10 @@ SKY Pet é um aplicativo para iOS que combina um caderno de saúde com funcional
 3. 2. Clone este repositório:
       
    ```bash
-   Selecione o dispositivo ou simulador desejado. Clique no botão "Run" (ou pressione Cmd + R) para compilar e executar o aplicativ  
+   Selecione o dispositivo ou simulador desejado. Clique no botão "Run" (ou pressione Cmd + R) para compilar e executar o aplicativo  
 Contribuições: 
 
-Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programação Shift, sinta-se avontade de me mandar um e-mail solicitando!
+Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programação Swift, sinta-se avontade de me mandar um e-mail solicitando!
 
 Licença
 Este projeto está licenciado sob a MIT License.
