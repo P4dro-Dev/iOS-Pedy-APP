@@ -63,7 +63,7 @@ Este projeto está licenciado sob a MIT License.
   📱| Contato
 Para mais informações, entre em contato:
 
-Nome: Pedro Henrique/ José Gabriel
+Nome: Pedro Henrique / José Gabriel
 
 Email: henrique.pedro62@aluno.ifce.edu.br | jose.soares.santos9888@gmail.com
 
