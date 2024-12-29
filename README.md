@@ -43,12 +43,12 @@ SKY Pet é um aplicativo para iOS que combina um caderno de saúde com funcional
    ```bash
    git clone https://github.com/BackandDeveloper/SKY-Pet.git
 
-2. Clone este repositório:
+2. Abra o Xcode.:
    
    ```bash
     Abra o Xcode. Selecione "File" > "Open" e escolha o diretório do projeto clonado.
 
-3. 2. Clone este repositório:
+3. Execute o aplicativo::
       
    ```bash
    Selecione o dispositivo ou simulador desejado. Clique no botão "Run" (ou pressione Cmd + R) para compilar e executar o aplicativo
