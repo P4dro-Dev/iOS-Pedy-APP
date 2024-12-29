@@ -1,9 +1,9 @@
-# SKY Pet 📲🐶🐱🐾
+#  💻| SKY Pet 📲🍎🐶🐱🐾
 
-## Descrição
+## 🗒️| Descrição
 SKY Pet é um aplicativo para iOS que combina um caderno de saúde com funcionalidades para gerenciar informações sobre pets. O aplicativo permite que os usuários registrem dados de saúde, agendamentos de consultas, vacinas, e outras informações importantes sobre seus pets.
 
-## Estrutura do Projeto
+## 🗂️| Estrutura do Projeto
 - `SKYPet/`: Diretório principal do projeto.
   - `AppDelegate.swift`: Arquivo de configuração do aplicativo.
   - `SceneDelegate.swift`: Gerencia as diferentes cenas do aplicativo.
@@ -25,19 +25,19 @@ SKY Pet é um aplicativo para iOS que combina um caderno de saúde com funcional
   - `Assets.xcassets`: Contém os assets do aplicativo, como ícones e imagens.
   - `Info.plist`: Arquivo de configuração do projeto.
 
-## Funcionalidades
+## 🔎| Funcionalidades
 - Registro de informações dos pets (nome, idade, raça, etc.).
 - Registro de dados de saúde (vacinas, consultas, tratamentos, etc.).
 - Agendamento de consultas e lembretes.
 - Visualização de histórico de saúde dos pets.
 - Integração com APIs para obter informações adicionais sobre cuidados com pets.
 
-## Requisitos
+## 📋| Requisitos
 - Xcode 12 ou superior.
 - Swift 5.0 ou superior.
 - iOS 13.0 ou superior.
 
-## Como Executar
+## 💻| Como Executar
 1. Clone este repositório:
    
    ```bash
@@ -52,14 +52,14 @@ SKY Pet é um aplicativo para iOS que combina um caderno de saúde com funcional
       
    ```bash
    Selecione o dispositivo ou simulador desejado. Clique no botão "Run" (ou pressione Cmd + R) para compilar e executar o aplicativo  
-Contribuições: 
+  🤝|Contribuições: 
 
 Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programação Swift, sinta-se avontade de me mandar um e-mail solicitando!
 
-Licença
+  📑| Licença
 Este projeto está licenciado sob a MIT License.
 
-Contato
+  📱| Contato
 Para mais informações, entre em contato:
 
 Nome: Pedro Henrique/ José Gabriel
