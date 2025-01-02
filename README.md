@@ -65,7 +65,7 @@ Para mais informações, entre em contato:
 
 Desenvolvedores Back-and: Pedro Henrique / José Gabriel
 
-Designer: Davi Santos / Thalia / Vinícius
+Designers: Davi Santos / Thalia / Vinícius
 
 Email: henrique.pedro62@aluno.ifce.edu.br | jose.soares.santos9888@gmail.com
 
