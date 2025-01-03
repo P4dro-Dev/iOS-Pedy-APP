@@ -1,3 +1,9 @@
+//ViewModels
+//Os ViewModels são responsáveis por ligar os modelos às views, gerenciando a lógica de apresentação.
+
+//PetViewModel.swift
+//Este ViewModel gerencia a lista de pets.
+
 import SwiftUI
 
 struct PetView: View {
