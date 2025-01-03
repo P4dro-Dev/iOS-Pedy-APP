@@ -1,3 +1,9 @@
+//Serviços (Services)
+//Os serviços são responsáveis por realizar operações de negócios, como buscar dados ou autenticar usuários.
+
+//PetService.swift
+//Este serviço fornece uma lista de pets.
+
 import Foundation
 
 class PetService {
