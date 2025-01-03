@@ -1,3 +1,6 @@
+//UserService:
+//Este serviço lida com a autenticação de usuários.
+
 import Foundation
 
 class UserService {
