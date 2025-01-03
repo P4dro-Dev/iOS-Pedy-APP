@@ -1,3 +1,6 @@
+// User.swift
+// Este modelo representa um usuário com propriedades como nome de usuário, email e senha.
+
 import Foundation
 
 struct User: Identifiable {
