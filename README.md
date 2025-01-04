@@ -67,7 +67,7 @@ Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programa�
  ## 📑| Licença
 Este projeto está licenciado sob a MIT License.
 
-## Equipe completa, na qual fazem parte do desenvolvimento: 
+## ⚙️| Equipe completa, na qual fazem parte do desenvolvimento: 
 
 Desenvolvedores Back-and: Pedro Henrique / José Gabriel
 
