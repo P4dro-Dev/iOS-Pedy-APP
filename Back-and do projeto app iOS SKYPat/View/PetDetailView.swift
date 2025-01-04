@@ -1,3 +1,6 @@
+//PetDetailView.swift
+//Esta view exibe os detalhes de um pet.
+
 import SwiftUI
 
 struct PetDetailView: View {
