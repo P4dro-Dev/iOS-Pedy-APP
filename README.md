@@ -33,7 +33,7 @@ SKY Pet é um aplicativo para iOS que combina um caderno de saúde com funcional
 - Visualização de histórico de saúde dos pets.
 - Integração com APIs para obter informações adicionais sobre cuidados com pets.
 
-##  | Imagens do protótipo de alta fidelidade do projeto no Figma: 
+## 🗃️| Imagens do protótipo de alta fidelidade do projeto no Figma: 
 
 ![Captura de tela 2024-12-22 172737](https://github.com/user-attachments/assets/084aec14-559d-49fe-a446-80f6733d8941)
 
