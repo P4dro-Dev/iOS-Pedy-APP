@@ -67,13 +67,14 @@ Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programa�
  ## 📑| Licença
 Este projeto está licenciado sob a MIT License.
 
- ## 📱| Contato
-  
-Para mais informações, ou dúvidas sobre o projeto:
 
 Desenvolvedores Back-and: Pedro Henrique / José Gabriel
 
 Designers: Davi Santos / Thalia / Vinícius
+
+ ## 📱| Contato
+  
+Para mais informações, ou dúvidas sobre o projeto:
 
 Email: henrique.pedro62@aluno.ifce.edu.br | jose.soares.santos9888@gmail.com
 
