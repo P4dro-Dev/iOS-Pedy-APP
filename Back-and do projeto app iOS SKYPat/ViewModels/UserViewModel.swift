@@ -1,3 +1,6 @@
+//UserViewModel.swift:
+//Este ViewModel gerencia a autenticação do usuário.
+
 import Foundation
 
 class UserViewModel: ObservableObject {
