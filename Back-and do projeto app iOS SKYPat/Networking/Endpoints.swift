@@ -1,3 +1,6 @@
+//Endpoints.swift
+//Este arquivo define os endpoints da API.
+
 import Foundation
 
 enum HTTPMethod: String {
