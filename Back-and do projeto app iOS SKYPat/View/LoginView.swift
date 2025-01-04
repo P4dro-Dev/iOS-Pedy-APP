@@ -1,3 +1,6 @@
+//LoginView.swift
+//Esta view exibe a tela de login.
+
 import SwiftUI
 
 struct LoginView: View {
