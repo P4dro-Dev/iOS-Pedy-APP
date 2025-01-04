@@ -67,7 +67,7 @@ Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programa�
  ## 📑| Licença
 Este projeto está licenciado sob a MIT License.
 
-  📱| Contato
+ ## 📱| Contato
   
 Para mais informações, entre em contato:
 
