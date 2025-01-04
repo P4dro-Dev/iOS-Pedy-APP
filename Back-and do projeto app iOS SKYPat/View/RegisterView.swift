@@ -1,3 +1,6 @@
+//RegisterView.swift
+//Esta view exibe a tela de registro.
+
 import SwiftUI
 
 struct RegisterView: View {
