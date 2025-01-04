@@ -1,0 +1,1 @@
+// O Assets.xcassets é usado para gerenciar os recursos gráficos do seu aplicativo, como imagens, ícones e cores.
