@@ -35,6 +35,8 @@ SKY Pet é um aplicativo para iOS que combina um caderno de saúde com funcional
 
 ##  | Imagens do protótipo de alta fidelidade do projeto no Figma: 
 
+![Captura de tela 2024-12-22 172737](https://github.com/user-attachments/assets/084aec14-559d-49fe-a446-80f6733d8941)
+
 ## 📋| Requisitos
 - Xcode 12 ou superior.
 - Swift 5.0 ou superior.
@@ -64,6 +66,7 @@ Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programa�
 Este projeto está licenciado sob a MIT License.
 
   📱| Contato
+  
 Para mais informações, entre em contato:
 
 Desenvolvedores Back-and: Pedro Henrique / José Gabriel
