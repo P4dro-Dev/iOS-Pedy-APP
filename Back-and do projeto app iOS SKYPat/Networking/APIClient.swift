@@ -1,3 +1,9 @@
+//Networking
+//A camada de networking é responsável por fazer requisições HTTP para um servidor remoto.
+
+//APIClient.swift
+//Este arquivo contém a lógica para fazer requisições HTTP.
+
 import Foundation
 
 class APIClient {
