@@ -69,7 +69,7 @@ Este projeto está licenciado sob a MIT License.
 
  ## 📱| Contato
   
-Para mais informações, entre em contato:
+Para mais informações, ou dúvidas sobre o projeto:
 
 Desenvolvedores Back-and: Pedro Henrique / José Gabriel
 
