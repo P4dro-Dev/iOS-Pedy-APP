@@ -81,7 +81,7 @@ xibir informações dos pets.
    ```bash
    Selecione o dispositivo ou simulador desejado. Clique no botão "Run" (ou pressione Cmd + R) para compilar e executar o aplicativo
 
- ## 📄| Site que contém toda estrutura do projeto 
+ ## 📄| Site que contém toda a do projeto 
 
   ## 👥| Contribuições: 
 
