@@ -40,7 +40,7 @@ SKY Pedy é um aplicativo para iOS que combina um caderno de saúde com funciona
 ##   | Tela de Cadastro do app SKY Pet | iOS
 
 
-## 
+##   | 
 
 ## 
 
