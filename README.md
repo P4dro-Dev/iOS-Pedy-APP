@@ -86,7 +86,7 @@ Este projeto está licenciado sob a MIT License.
 
 🖌️| Designers: Davi Santos / Thalia / Vinícius
 
-| Voluntário que nos forneceu a API: Victor Santos 
+👥| Voluntário que nos forneceu a API: Victor Santos 
 
  ## 📩| Contato
   
