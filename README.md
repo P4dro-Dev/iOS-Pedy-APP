@@ -16,7 +16,8 @@ SKY Pedy é um aplicativo para iOS que combina um caderno de saúde com funciona
     - `Pet.swift`: Modelo de dados para os pets.
     - `HealthRecord.swift`: Modelo de dados para os registros de saúde.
   - `Views/`: Contém as views personalizadas do aplicativo.
-    - `PetTableViewCell.swift`: Célula personalizada para exibir informações dos pets.
+    - `PetTableViewCell.swift`: Célula personalizada para e
+xibir informações dos pets.
   - `Resources/`: Contém recursos como imagens, arquivos JSON, etc.
   - `Services/`: Contém serviços para manipulação de dados e integração com APIs.
     - `PetService.swift`: Serviço para gerenciar dados dos pets.
@@ -92,5 +93,7 @@ Este projeto está licenciado sob a MIT License.
 Para mais informações, ou dúvidas sobre o projeto:
 
 📧| Email: henrique.pedro62@aluno.ifce.edu.br | jose.soares.santos9888@gmail.com | davidosantosqueiroz@outlook.com | vinicioolivindo81@gmail.com | thaliasantosfd@gmail.com
+
+![TestTypingGIF](https://github.com/user-attachments/assets/afec96ff-fff5-4331-8476-2094b182742d)
 
 
