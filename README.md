@@ -52,7 +52,6 @@ xibir informações dos pets.
 
 ![Captura de tela 2025-01-06 131350](https://github.com/user-attachments/assets/52411e5b-9c89-4f8a-9638-5e520e7243f4)
 
-
  🔗| link do Prótotipo de Alta qualidade no Figma
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DcVQ3puW6gIoyx2XBCfZBr/Pedy?node-id=0-1&p=f&t=QjosPPoNli5W4KEc-0)
