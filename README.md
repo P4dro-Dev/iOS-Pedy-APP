@@ -82,7 +82,7 @@ Este projeto está licenciado sob a MIT License.
 
 ## ⚙️| Equipe completa, na qual fazem parte do desenvolvimento: 
 
-| Desenvolvedores Back-and: Pedro Henrique / José Gabriel
+💡| Desenvolvedores Back-and: Pedro Henrique / José Gabriel
 
 🖌️| Designers: Davi Santos / Thalia / Vinícius
 
