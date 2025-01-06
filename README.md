@@ -44,6 +44,8 @@ SKY Pedy é um aplicativo para iOS que combina um caderno de saúde com funciona
 
 ## 
 
+##
+
 ## 📋| Requisitos
 - Xcode 12 ou superior.
 - Swift 5.0 ou superior.
