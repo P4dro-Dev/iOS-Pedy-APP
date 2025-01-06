@@ -47,7 +47,7 @@ xibir informações dos pets.
 
 ##  📨| Telas Adicionar lembretes 
 
-![Captura de tela 2025-01-06 131350](https://github.com/user-attachments/assets/1220a6ac-0a43-460f-bac2-413277593366)
+![Telas para adicionar lembretes](https://github.com/user-attachments/assets/1220a6ac-0a43-460f-bac2-413277593366)
 
 ##  👤| Telas de perfis 
 
