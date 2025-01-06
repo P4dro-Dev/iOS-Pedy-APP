@@ -84,7 +84,7 @@ Este projeto está licenciado sob a MIT License.
 
 | Desenvolvedores Back-and: Pedro Henrique / José Gabriel
 
-Designers: Davi Santos / Thalia / Vinícius
+| Designers: Davi Santos / Thalia / Vinícius
 
 Voluntário que nos forneceu a API: Victor Santos 
 
