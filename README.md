@@ -71,7 +71,7 @@ Desenvolvedores Back-and: Pedro Henrique / José Gabriel
 
 Designers: Davi Santos / Thalia / Vinícius
 
-Voluntário que nos forneceu a API: Victor
+Voluntário que nos forneceu a API: Victor Santos 
 
  ## 📱| Contato
   
