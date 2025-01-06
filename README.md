@@ -42,7 +42,7 @@ SKY Pedy é um aplicativo para iOS que combina um caderno de saúde com funciona
 
 ##   | Home, e telas principais 
 
-##   | Adicionar lembretes 
+##   | Telas Adicionar lembretes 
 
 ##   | 
 
