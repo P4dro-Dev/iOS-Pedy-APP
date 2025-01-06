@@ -88,7 +88,7 @@ Designers: Davi Santos / Thalia / Vinícius
 
 Voluntário que nos forneceu a API: Victor Santos 
 
- ## 📱| Contato
+ ## 📩| Contato
   
 Para mais informações, ou dúvidas sobre o projeto:
 
