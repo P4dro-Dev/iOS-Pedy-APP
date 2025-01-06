@@ -36,7 +36,7 @@ xibir informações dos pets.
 
 ## 🗃️| Imagens do protótipo de alta fidelidade do projeto no Figma: 
 
-![Captura de tela 2024-12-22 172737](https://github.com/user-attachments/assets/084aec14-559d-49fe-a446-80f6733d8941)
+
 
 ##  🖥️| Tela de Cadastro do app 
 
