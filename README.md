@@ -81,13 +81,13 @@ xibir informações dos pets.
    ```bash
    Selecione o dispositivo ou simulador desejado. Clique no botão "Run" (ou pressione Cmd + R) para compilar e executar o aplicativo
 
- ## 📄| Site que contém toda a documentação do projeto 
+ ## 🌐| Site que contém toda a documentação do projeto 
 
-  ## 👥| Contribuições: 
+## 👥| Contribuições: 
 
 Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programação Swift, sinta-se avontade de me mandar um e-mail solicitando!
 
- ## 📑| Licença
+## 📑| Licença
 Este projeto está licenciado sob a MIT License.
 
 ## ⚙️| Equipe completa, na qual fazem parte do desenvolvimento: 
@@ -98,7 +98,7 @@ Este projeto está licenciado sob a MIT License.
 
 👥| Voluntário que nos forneceu a API: Victor Santos 
 
- ## 📩| Contato
+## 📩| Contato
   
 Para mais informações, ou dúvidas sobre o projeto:
 
