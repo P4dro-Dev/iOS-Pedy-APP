@@ -90,5 +90,8 @@ Voluntário que nos forneceu a API: Victor Santos
 
  ## 📱| Contato
   
+Para mais informações, ou dúvidas sobre o projeto:
+
+Email: henrique.pedro62@aluno.ifce.edu.br | jose.soares.santos9888@gmail.com | thaliasantosfd@gmail.com | davidosantosqueiroz@outlook.com | vinicioolivindo81@gmail.com
 
 
