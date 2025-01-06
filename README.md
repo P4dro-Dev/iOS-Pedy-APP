@@ -44,7 +44,6 @@ xibir informações dos pets.
 
 ![Imagens do protótipo de alta fidelidade no Figma: Home, e telas principais](https://github.com/user-attachments/assets/0df17b6a-110d-4153-8e43-c6c32186b23f)
 
-
 ##  📨| Telas Adicionar lembretes 
 
 ![Telas para adicionar lembretes](https://github.com/user-attachments/assets/1220a6ac-0a43-460f-bac2-413277593366)
