@@ -42,7 +42,6 @@ xibir informações dos pets.
 
 ![Tela de início  iOS SKY Pedy ](https://github.com/user-attachments/assets/65ef2a3c-7f57-40c8-a93f-f9f23e4a18b8)
 
-
 ##  📱| Home, e telas principais 
 
 ##  📨| Telas Adicionar lembretes 
