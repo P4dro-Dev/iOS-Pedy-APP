@@ -50,7 +50,7 @@ xibir informações dos pets.
 
 ##  👤| Telas de perfis 
 
-![Imagens das telas de perfis ](https://github.com/user-attachments/assets/52411e5b-9c89-4f8a-9638-5e520e7243f4)
+![Imagens das telas de perfis no](https://github.com/user-attachments/assets/52411e5b-9c89-4f8a-9638-5e520e7243f4)
 
  🔗| link do Prótotipo de Alta qualidade no Figma
 
