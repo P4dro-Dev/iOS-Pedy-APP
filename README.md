@@ -69,6 +69,8 @@ SKY Pedy é um aplicativo para iOS que combina um caderno de saúde com funciona
 
  ##  | 
 
+ link do Prótotipo de Alta
+
   ## 👥| Contribuições: 
 
 Caso tenham alguma ideia, experiência, e conhecimento na linguagem de programação Swift, sinta-se avontade de me mandar um e-mail solicitando!
