@@ -1,6 +1,5 @@
 #  💻| SKY Pedy 📲🍎🐶🐱🐾
 
-
 ## 🗒️| Descrição
 SKY Pedy é um aplicativo para iOS que combina um caderno de saúde com funcionalidades para gerenciar informações sobre pets. O aplicativo permite que os usuários registrem dados de saúde, agendamentos de consultas, vacinas, e outras informações importantes sobre seus pets.
 
