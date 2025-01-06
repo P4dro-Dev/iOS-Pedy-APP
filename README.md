@@ -94,6 +94,6 @@ Para mais informações, ou dúvidas sobre o projeto:
 
 📧| Email: henrique.pedro62@aluno.ifce.edu.br | jose.soares.santos9888@gmail.com | davidosantosqueiroz@outlook.com | vinicioolivindo81@gmail.com | thaliasantosfd@gmail.com
 
-![TestTypingGIF](https://github.com/user-attachments/assets/afec96ff-fff5-4331-8476-2094b182742d)
+
 
 
