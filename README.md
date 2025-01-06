@@ -70,7 +70,7 @@ SKY Pedy é um aplicativo para iOS que combina um caderno de saúde com funciona
    ```bash
    Selecione o dispositivo ou simulador desejado. Clique no botão "Run" (ou pressione Cmd + R) para compilar e executar o aplicativo
 
- ##  | Site que contém toda estrutura do projeto 
+ ##  📄| Site que contém toda estrutura do projeto 
 
   ## 👥| Contribuições: 
 
