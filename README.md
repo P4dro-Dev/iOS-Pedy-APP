@@ -1,5 +1,5 @@
 #  💻| Pedy 📲🍎🐶🐱🐾
-
+ 
 ## 🗒️| Descrição
 Pedy é um aplicativo para iOS, de cuidados com pets que surgiu da necessidade de auxiliar tutores de animais no gerenciamento das atividades diárias e lembretes. O app foi pensado para ser intuitivo, eficiente e focado em oferecer uma experiência personalizada para cada pet.
   
