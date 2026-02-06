@@ -4,7 +4,7 @@
 Pedy é um aplicativo para iOS, de cuidados com pets que surgiu da necessida de de auxiliar tutores de animais no gerenciamento das atividades diárias e lembretes. O app foi pensado para ser intuitivo, eficiente e focado em oferecer uma experiência personalizada para cada pet.
   
 ## 🗂️| Estrutura do Projeto        
-   
+    
 - `SKYPet/`: Diretório principal do projeto.
   - `AppDelegate.swift`: Arquivo de configuração do aplicativo. 
   - `SceneDelegate.swift`: Gerencia as diferentes cenas do aplicativo.  
